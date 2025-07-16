@@ -40,7 +40,7 @@ With a **smooth video background**, **responsive layout**, and **user-friendly n
 ## 🔗 Live Demo & Repository
 
 > 🌍 **Live Preview**  
-> 🔗 [Explore Jogja Website](https://sianakalim.github.io/Lomba-IOFest-Untar/)
+> 🔗 [Explore Jogja Website](https://sianakalim.github.io/Lomba-IOFest-Untar/homepage.html)
 
 > 📁 **GitHub Repository**  
 > 🔗 [Lomba-IOFest-Untar](https://github.com/SiAnakAlim/Lomba-IOFest-Untar)
